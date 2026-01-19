@@ -11,6 +11,11 @@ The goal is to demonstrate real-world engineering skills across the full stack:
 - Gateway and edge-device architecture (Raspberry Pi)
 - Backend development and data visualization (Laravel)
 
+## System Architecture
+
+![System Architecture](docs/images/overview.png)
+
+
 ---
 
 ## Hardware Setup
@@ -67,6 +72,12 @@ The goal is to demonstrate real-world engineering skills across the full stack:
 ### I2C
 - STM32 ↔ ESP32 slave
 - Transmission of temperature sensor data
+
+---
+
+## Electrical Schematic
+
+![Electrical Schematic](docs/images/circuit_diagram.png)
 
 ---
 
