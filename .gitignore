@@ -1,0 +1,17 @@
+# Build output
+/build/
+/cmake-build-*/
+
+# Toolchain generated
+*.elf
+*.map
+*.hex
+*.bin
+
+# IDE junk
+.vscode/ipch/
+.settings/
+
+# OS junk
+Thumbs.db
+.DS_Store
