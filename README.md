@@ -15,6 +15,11 @@ The goal is to demonstrate real-world engineering skills across the full stack:
 
 ![System Architecture](docs/images/overview.png)
 
+## My own build
+
+![Own Build 1](docs/images/img1.jpg)
+
+![Own Build 2](docs/images/img2.jpg)
 
 ---
 
